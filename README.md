@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning web development and Python.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me @japhethdanny@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading science fiction and fantasy books like "The Three-Body Problem," "Dune," and "The Martian."
 
 <!---
