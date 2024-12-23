@@ -1,8 +1,8 @@
-- 👀 I’m interested in software development, particularly web and backend development.
-- 🌱 I’m currently learning web development and Python.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me @japhethdanny@gmail.com
-- ⚡ Fun fact: I love reading science fiction and fantasy books like "The Three-Body Problem," "Dune," and "The Martian."
+🌟 I’m an aspiring electrical engineer with a passion for software development, particularly in embedded systems and backend development.
+🌱 Currently learning advanced Python and front-end web development.
+💡 I’m eager to collaborate on projects combining hardware and software, as well as web development initiatives.
+📫 Reach me at japhethdanny@gmail.com.
+⚡ Fun fact: I’m a huge fan of science fiction and fantasy books like The Three-Body Problem, Dune, and The Martian—they inspire my love for technology and exploration!
 
 <!---
 JaphD/JaphD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
